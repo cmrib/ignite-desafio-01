@@ -1,4 +1,4 @@
-# react-todo
+# react-todo-ignite
 
 ### About
 
